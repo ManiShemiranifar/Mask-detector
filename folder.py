@@ -2,7 +2,7 @@
  from mask import create
 # import shutil
 
- folder = ""  # path to you dataset directory
+ folder = ""  # path to your dataset directory
  images = [os.path.join(folder, image) for image in os.listdir(folder)]
  for i in range(len(images)):
      create(images[i])
