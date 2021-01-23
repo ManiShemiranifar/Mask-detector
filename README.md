@@ -2,7 +2,7 @@
 
 
 For dataset, I didn't use real mask(but I wrote a script to do that automaticly(mask.py))
-                 # For output see pull requests
+                 # For outputs see "master" in branches
                  
 1 - Run foder.py to implementing mask on faces in directory(wich has images)
 
